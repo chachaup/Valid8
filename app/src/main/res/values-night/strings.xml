@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Valid8</string>
     <string name="action_continue">Continue</string>
-    <string name="your_answer_goes_here">Your answer goes here</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="enter_your_password">Enter your password</string>
     <string name="email_address">Email address</string>

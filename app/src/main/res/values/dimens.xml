@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- stroke width -->
+    <dimen name="stroke_width">1dp</dimen>
+
+    <!-- no dp -->
+    <dimen name="no_dp">0dp</dimen>
+
+    <!-- main layout padding -->
+    <dimen name="main_layout_padding">16dp</dimen>
+
+    <!-- main margin top -->
+    <dimen name="main_margin">8dp</dimen>
+
+    <!-- security questions margin top -->
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="security_questions_margin_top_large">25dp</dimen>
+
+    <!-- hint text size -->
+    <dimen name="hint_text_size">12sp</dimen>
+
+    <dimen name="box_stroke_width">1dp</dimen>
+
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="input_layout_padding">17dp</dimen>
+    <dimen name="button_padding">17dp</dimen>
+
+    <dimen name="main_body_card_corner_radius">19dp</dimen>
+    <dimen name="layout_margin_top_huge">50dp</dimen>
+
+    <dimen name="dialog_strip_width">88dp</dimen>
+
+    <dimen name="notification_buttons_width">90dp</dimen>
+
+    <!--    font sizes-->
+
+    <dimen name="regular_font_size">12sp</dimen>
+    <dimen name="security_question_size">18sp</dimen>
+    <dimen name="title_text_size">22sp</dimen>
+
+</resources>
