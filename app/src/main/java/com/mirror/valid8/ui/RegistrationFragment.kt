@@ -20,10 +20,6 @@ import kotlinx.coroutines.launch
 
 class RegistrationFragment : Fragment() {
 
-    companion object {
-        fun newInstance() = RegistrationFragment()
-    }
-
     private val viewModel: RegistrationViewModel by activityViewModels()
 
     private lateinit var binding: FragmentRegistrationBinding
